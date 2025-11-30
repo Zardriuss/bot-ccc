@@ -1,0 +1,35 @@
+name: Scan Pokemon Daily
+
+on:
+  schedule:
+    - cron: '0,30 * * * *' # Lance le scan à xx:00 et xx:30 (toutes les 30 min)
+  workflow_dispatch: # Permet de lancer manuellement le scan via un bouton pour tester
+
+jobs:
+  run-scan:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # INDISPENSABLE pour sauvegarder le fichier JSON
+
+    steps:
+      - name: Récupération du code
+        uses: actions/checkout@v4
+
+      - name: Installation Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Installation des librairies
+        run: pip install -r requirements.txt
+
+      - name: Lancement du Script
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        run: python main.py
+
+      - name: Sauvegarde de la mémoire (JSON)
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Mise à jour pop report"
+          file_pattern: "suivi_pop_data.json"
