@@ -240,7 +240,7 @@
         "notesTotal": 35
     },
     "Dracaufeu_199": {
-        "@id": "/api/v2/cards/10715202",
+        "@id": "/api/v2/cards/10749003",
         "@type": "CardPopulationGroup",
         "name": "Dracaufeu ex",
         "year": "2023",
@@ -273,11 +273,11 @@
                 "note8": 29,
                 "note85": 26,
                 "note9": 141,
-                "note95": 288,
+                "note95": 289,
                 "note10": 18,
                 "note10b": 0,
                 "note10g": 2,
-                "notesTotal": 508,
+                "notesTotal": 509,
                 "authentication": 0,
                 "specificities": []
             },
@@ -321,10 +321,10 @@
         "note8": 29,
         "note85": 26,
         "note9": 141,
-        "note95": 289,
+        "note95": 290,
         "note10": 18,
         "note10b": 0,
         "note10g": 2,
-        "notesTotal": 509
+        "notesTotal": 510
     }
 }
