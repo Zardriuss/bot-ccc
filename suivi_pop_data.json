@@ -1,6 +1,6 @@
 {
     "Nidoking_233": {
-        "@id": "/api/v2/cards/10715102",
+        "@id": "/api/v2/cards/10782897",
         "@type": "CardPopulationGroup",
         "name": "Nidoking ex de la Team Rocket",
         "year": "2025",
@@ -34,10 +34,10 @@
                 "note85": 1,
                 "note9": 13,
                 "note95": 8,
-                "note10": 19,
+                "note10": 20,
                 "note10b": 1,
                 "note10g": 22,
-                "notesTotal": 64,
+                "notesTotal": 65,
                 "authentication": 0,
                 "specificities": []
             }
@@ -54,10 +54,10 @@
         "note85": 1,
         "note9": 13,
         "note95": 8,
-        "note10": 19,
+        "note10": 20,
         "note10b": 1,
         "note10g": 22,
-        "notesTotal": 64
+        "notesTotal": 65
     },
     "Kyurem_96": {
         "@id": "/api/v2/cards/10719108",
@@ -240,7 +240,7 @@
         "notesTotal": 35
     },
     "Dracaufeu_199": {
-        "@id": "/api/v2/cards/10749003",
+        "@id": "/api/v2/cards/10782974",
         "@type": "CardPopulationGroup",
         "name": "Dracaufeu ex",
         "year": "2023",
@@ -272,12 +272,12 @@
                 "note7": 3,
                 "note8": 29,
                 "note85": 26,
-                "note9": 141,
+                "note9": 142,
                 "note95": 289,
                 "note10": 18,
                 "note10b": 0,
                 "note10g": 2,
-                "notesTotal": 509,
+                "notesTotal": 510,
                 "authentication": 0,
                 "specificities": []
             },
@@ -320,11 +320,11 @@
         "note7": 3,
         "note8": 29,
         "note85": 26,
-        "note9": 141,
+        "note9": 142,
         "note95": 290,
         "note10": 18,
         "note10b": 0,
         "note10g": 2,
-        "notesTotal": 510
+        "notesTotal": 511
     }
 }
