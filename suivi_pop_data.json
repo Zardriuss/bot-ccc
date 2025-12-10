@@ -1,6 +1,6 @@
 {
     "Nidoking_233": {
-        "@id": "/api/v2/cards/10782897",
+        "@id": "/api/v2/cards/10885193",
         "@type": "CardPopulationGroup",
         "name": "Nidoking ex de la Team Rocket",
         "year": "2025",
@@ -36,8 +36,8 @@
                 "note95": 8,
                 "note10": 20,
                 "note10b": 1,
-                "note10g": 22,
-                "notesTotal": 65,
+                "note10g": 23,
+                "notesTotal": 66,
                 "authentication": 0,
                 "specificities": []
             }
@@ -56,11 +56,11 @@
         "note95": 8,
         "note10": 20,
         "note10b": 1,
-        "note10g": 22,
-        "notesTotal": 65
+        "note10g": 23,
+        "notesTotal": 66
     },
     "Kyurem_96": {
-        "@id": "/api/v2/cards/10719108",
+        "@id": "/api/v2/cards/10889081",
         "@type": "CardPopulationGroup",
         "name": "Kyurem EX",
         "year": "2012",
@@ -90,14 +90,14 @@
                 "note5": 0,
                 "note6": 0,
                 "note7": 1,
-                "note8": 0,
+                "note8": 1,
                 "note85": 0,
                 "note9": 1,
                 "note95": 1,
                 "note10": 0,
                 "note10b": 0,
                 "note10g": 0,
-                "notesTotal": 4,
+                "notesTotal": 5,
                 "authentication": 1,
                 "specificities": []
             }
@@ -110,17 +110,17 @@
         "note5": 0,
         "note6": 0,
         "note7": 1,
-        "note8": 0,
+        "note8": 1,
         "note85": 0,
         "note9": 1,
         "note95": 1,
         "note10": 0,
         "note10b": 0,
         "note10g": 0,
-        "notesTotal": 4
+        "notesTotal": 5
     },
     "Kyogre_104": {
-        "@id": "/api/v2/cards/10720080",
+        "@id": "/api/v2/cards/10885283",
         "@type": "CardPopulationGroup",
         "name": "Kyogre EX",
         "year": "2012",
@@ -142,7 +142,7 @@
         "cards": [
             {
                 "@type": "CardPopulation",
-                "@id": "_:3837",
+                "@id": "_:3847",
                 "note1": 0,
                 "note2": 0,
                 "note3": 0,
@@ -150,14 +150,14 @@
                 "note5": 0,
                 "note6": 0,
                 "note7": 1,
-                "note8": 1,
-                "note85": 1,
+                "note8": 2,
+                "note85": 2,
                 "note9": 1,
                 "note95": 0,
                 "note10": 0,
                 "note10b": 0,
                 "note10g": 0,
-                "notesTotal": 4,
+                "notesTotal": 6,
                 "authentication": 0,
                 "specificities": []
             }
@@ -170,14 +170,14 @@
         "note5": 0,
         "note6": 0,
         "note7": 1,
-        "note8": 1,
-        "note85": 1,
+        "note8": 2,
+        "note85": 2,
         "note9": 1,
         "note95": 0,
         "note10": 0,
         "note10b": 0,
         "note10g": 0,
-        "notesTotal": 4
+        "notesTotal": 6
     },
     "Zekrom_114": {
         "@id": "/api/v2/cards/10716194",
@@ -240,7 +240,7 @@
         "notesTotal": 35
     },
     "Dracaufeu_199": {
-        "@id": "/api/v2/cards/10868005",
+        "@id": "/api/v2/cards/10884752",
         "@type": "CardPopulationGroup",
         "name": "Dracaufeu ex",
         "year": "2023",
@@ -273,11 +273,11 @@
                 "note8": 29,
                 "note85": 26,
                 "note9": 142,
-                "note95": 291,
+                "note95": 297,
                 "note10": 18,
                 "note10b": 0,
                 "note10g": 2,
-                "notesTotal": 512,
+                "notesTotal": 518,
                 "authentication": 0,
                 "specificities": []
             },
@@ -321,10 +321,10 @@
         "note8": 29,
         "note85": 26,
         "note9": 142,
-        "note95": 292,
+        "note95": 298,
         "note10": 18,
         "note10b": 0,
         "note10g": 2,
-        "notesTotal": 513
+        "notesTotal": 519
     }
 }
